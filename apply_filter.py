@@ -6,6 +6,7 @@ import cv2
 from PIL import Image
 from medpy.filter.smoothing import anisotropic_diffusion
 from scipy.signal.signaltools import wiener
+from skimage.restoration import denoise_nl_means, estimate_sigma
 import os
 
 
@@ -33,6 +34,16 @@ for i in range(NUMBER_OF_IMAGES):
     img_d = wiener(grayscale)
     cv2.imwrite(os.path.join("Wiener Filter Images/", files[i][:-4] + ".png"), img_d)
 
+    # Applying NonLocal Means filter and saving it
+    sigma_est = np.mean(estimate_sigma(grayscale, multichannel=False))
+    img_ncm = denoise_nl_means(grayscale,
+                               h=1.15 * sigma_est,
+                               fast_mode=False,
+                               patch_size=5,
+                               patch_distance=3,
+                               preserve_range=True,
+                               multichannel=False)
+    cv2.imwrite(os.path.join("Non-Local Means Filter Images/", files[i][:-4] + ".png"), img_ncm)
 
 
 
