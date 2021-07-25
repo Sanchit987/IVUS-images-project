@@ -1,4 +1,0 @@
-Collecting numpy
-  Using cached numpy-1.21.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (15.8 MB)
-Installing collected packages: numpy
-Successfully installed numpy-1.21.1
