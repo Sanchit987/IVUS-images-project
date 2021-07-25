@@ -1,0 +1,91 @@
+,gray,other,PSNR,mse,ssim
+0,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_1.png,44.31175411051988,2.4093780517578125,0.9931163426788187
+1,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_13.png,44.05806783602535,2.554309844970703,0.9930658100623232
+2,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_14.png,44.02655713816409,2.5729103088378906,0.9930696159234618
+3,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_15.png,43.969402244593745,2.60699462890625,0.9930055531467964
+4,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_18.png,44.19115354981332,2.477222442626953,0.9934247944818423
+5,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_19.png,44.463502564129016,2.3266448974609375,0.993849930708536
+6,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_2.png,44.14646273480231,2.5028457641601562,0.9930201267067723
+7,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_4.png,43.84416683996839,2.6832656860351562,0.9925746338869758
+8,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_8.png,44.10863990549862,2.524738311767578,0.9925781813462461
+9,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Anisotropic Filter Images/anonymus 00001_Frame_9.png,44.00380980773796,2.5864219665527344,0.9926992141624668
+10,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_1.png,30.964674920997204,52.07303237915039,0.4213462725842316
+11,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_13.png,30.89363659787876,52.93180465698242,0.4036167720214816
+12,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_14.png,30.86569515678817,53.27345275878906,0.4033768539066142
+13,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_15.png,30.87360562214599,53.17650604248047,0.4020970306681768
+14,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_18.png,31.094791424050353,50.536041259765625,0.42369879788673814
+15,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_19.png,31.11883339014579,50.25705337524414,0.4231615280275578
+16,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_2.png,31.08567890925893,50.642189025878906,0.4265860100356979
+17,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_4.png,30.841040433693827,53.576744079589844,0.3997362679246586
+18,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_8.png,30.855168475183547,53.40273666381836,0.40230932730247887
+19,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Bilateral Filter Images/anonymus 00001_Frame_9.png,30.816317955815848,53.88260269165039,0.39961601900081006
+20,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_1.png,30.956868820249433,52.16671371459961,0.42132674429048417
+21,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_13.png,30.885351575489235,53.03287887573242,0.40358904076354957
+22,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_14.png,30.85646107702444,53.386844635009766,0.4033492153747775
+23,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_15.png,30.86501167482577,53.281837463378906,0.4020730728047583
+24,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_18.png,31.086943484413553,50.627445220947266,0.4236741650382762
+25,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_19.png,31.108704979565136,50.37439727783203,0.42313978656598605
+26,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_2.png,31.076352065978575,50.75106430053711,0.4265617256759738
+27,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_4.png,30.833660978630718,53.6678581237793,0.39971063559213316
+28,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_8.png,30.846666939734853,53.50737762451172,0.4022874053596657
+29,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Gaussian Filter Images/anonymus 00001_Frame_9.png,30.809522761603027,53.966976165771484,0.3995935218798568
+30,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_1.png,34.092668175945605,25.340404510498047,0.81452297297244
+31,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_13.png,33.69360423843314,27.779212951660156,0.7996427300403472
+32,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_14.png,33.63686341029752,28.14453125,0.8028596339615736
+33,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_15.png,33.70979394098296,27.67584991455078,0.8044003847221118
+34,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_18.png,33.806124290894324,27.06873321533203,0.8077155966787503
+35,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_19.png,34.028247709791,25.71908950805664,0.8212109128047508
+36,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_2.png,33.898463028153415,26.499279022216797,0.8066209279534107
+37,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_4.png,33.69164139285972,27.791770935058594,0.7975435888551607
+38,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_8.png,33.94447147817732,26.22003173828125,0.8148890381024367
+39,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Median Filter Images/anonymus 00001_Frame_9.png,33.78581251012214,27.195629119873047,0.8056595014943925
+40,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_1.png,59.73030885258111,0.06919097900390625,0.998309140843344
+41,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_13.png,58.3720362715422,0.09459686279296875,0.9978114971848623
+42,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_14.png,58.61829458788796,0.08938217163085938,0.9978752526858825
+43,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_15.png,58.59058064534072,0.08995437622070312,0.9979102170838438
+44,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_18.png,59.70643071447092,0.06957244873046875,0.998229263037087
+45,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_19.png,60.21435577347165,0.061893463134765625,0.9984693142015617
+46,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_2.png,59.10685087350977,0.07987213134765625,0.998032050111756
+47,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_4.png,58.217547592209854,0.0980224609375,0.9977771491335229
+48,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_8.png,58.79283376337617,0.0858612060546875,0.9979652724956362
+49,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Non-Local Means Filter Images/anonymus 00001_Frame_9.png,58.614218792604646,0.08946609497070312,0.9979802510922976
+50,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_1.png,34.092343260027256,25.342300415039062,0.8142253731564854
+51,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_13.png,33.69376287891522,27.7781982421875,0.7995041407859067
+52,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_14.png,33.635937576992426,28.150531768798828,0.8024097592182411
+53,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_15.png,33.70874709958453,27.68252182006836,0.8040081497413972
+54,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_18.png,33.80572587420243,27.071216583251953,0.8072989028955638
+55,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_19.png,34.02781099625066,25.721675872802734,0.8208941008973331
+56,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_2.png,33.89810230990918,26.501480102539062,0.8061514496317845
+57,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_4.png,33.691152608184964,27.794898986816406,0.7974354304700823
+58,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_8.png,33.94399319716309,26.222919464111328,0.8145619331776796
+59,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Non-local Means filter + Median Filter Images/anonymus 00001_Frame_9.png,33.78560600318171,27.196922302246094,0.8054484353804696
+60,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_1.png,30.954689191808864,52.192901611328125,0.42132287462738444
+61,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_13.png,30.88347013678512,53.05585861206055,0.40358753436004485
+62,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_14.png,30.85565338848749,53.39677429199219,0.40334720737084934
+63,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_15.png,30.863215482151716,53.30387878417969,0.4020650412959676
+64,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_18.png,31.084645928112543,50.65423583984375,0.42366546802942967
+65,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_19.png,31.10799466166156,50.38263702392578,0.4231388351220889
+66,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_2.png,31.074031393376874,50.77819061279297,0.426558251766096
+67,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_4.png,30.831761682646473,53.69133377075195,0.39969946790138716
+68,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_8.png,30.845728888741768,53.51893615722656,0.40228321838017234
+69,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Total Variance Filter Images/anonymus 00001_Frame_9.png,30.80817745737113,53.98369598388672,0.39958562631282785
+70,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_1.png,32.56932927474118,35.98714828491211,0.21632007059078587
+71,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_13.png,32.53461229967394,36.275978088378906,0.23484324031456305
+72,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_14.png,32.38614591969067,37.53753662109375,0.22234798289384253
+73,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_15.png,32.3806436226647,37.58512496948242,0.21646688002479822
+74,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_18.png,32.45364142652867,36.95866012573242,0.20085390727950894
+75,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_19.png,32.52927910682335,36.320552825927734,0.20589253504772512
+76,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_2.png,32.704271701228784,34.88616180419922,0.22250955396185843
+77,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_4.png,32.532083864740684,36.29710388183594,0.228561836517318
+78,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_8.png,32.518150492819665,36.41374206542969,0.22656583267115424
+79,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Wiener + Anisotropic Filter Images/anonymus 00001_Frame_9.png,32.42182479613134,37.23041534423828,0.22229610461535632
+80,IVUS Project/Grayscale Images/anonymus 00001_Frame_1.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_1.png,32.60714809454723,35.67512893676758,0.21619548984612816
+81,IVUS Project/Grayscale Images/anonymus 00001_Frame_13.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_13.png,32.592407068112266,35.796424865722656,0.23513447080776181
+82,IVUS Project/Grayscale Images/anonymus 00001_Frame_14.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_14.png,32.44293051802621,37.049922943115234,0.2229292373410031
+83,IVUS Project/Grayscale Images/anonymus 00001_Frame_15.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_15.png,32.4257869798483,37.19646453857422,0.21626256555957904
+84,IVUS Project/Grayscale Images/anonymus 00001_Frame_18.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_18.png,32.49035520933539,36.64754104614258,0.2013130456742752
+85,IVUS Project/Grayscale Images/anonymus 00001_Frame_19.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_19.png,32.56125471712694,36.05411911010742,0.20562320796667852
+86,IVUS Project/Grayscale Images/anonymus 00001_Frame_2.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_2.png,32.75857655626958,34.45265579223633,0.2235201709041521
+87,IVUS Project/Grayscale Images/anonymus 00001_Frame_4.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_4.png,32.578373698312376,35.91228103637695,0.22855080857707769
+88,IVUS Project/Grayscale Images/anonymus 00001_Frame_8.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_8.png,32.583138969664034,35.87289810180664,0.22628512518811558
+89,IVUS Project/Grayscale Images/anonymus 00001_Frame_9.png,IVUS Project/Wiener Filter Images/anonymus 00001_Frame_9.png,32.48314987107951,36.70839309692383,0.22239206714691304
